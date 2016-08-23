@@ -30,5 +30,4 @@ Dưới đây là các mục trong phần này:
   - [Dillinger](dillinger.io): Trình soạn thảo online. Lưu trữ theo phiên. Hỗ trợ nhập từ nhiều nguồn và xuất bản nhiều định dạng.
   - [Haroopad](http://pad.haroopress.com/): Trình soạn thảo Markdown đa nền tảng. Miễn phí. Tương thích với dẫn xuất Markdown của Github. Khuyên dùng (trên Windows).
   - Có thể thêm các công cụ khác nếu thấy ưu điểm hơn, hoặc dễ sử dụng hơn, ví dụ [Typora](https://www.typora.io/) chẳng hạn.
-   
-  
+
