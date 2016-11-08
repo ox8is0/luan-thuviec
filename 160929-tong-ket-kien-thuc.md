@@ -44,7 +44,7 @@ Hãy thực hiện hệ thống kiến thức với các nội dung dưới đâ
 - [ ] MBR nằm ở đâu? Các đặc điểm của MBR.
 
 ## Sự khởi động của máy tính
-- [ ] Quá trình khởi động của máy tính được diễn ra như thês nào?
+- [ ] Quá trình khởi động của máy tính được diễn ra như the nào?
 - [ ] Hãy liệt kê các yêu cầu cần thiết về phần cứng lẫn phần mềm để máy tính có thể khởi động cho đến khi hệ điều hành được khởi chạy đầy đủ.
 
 
